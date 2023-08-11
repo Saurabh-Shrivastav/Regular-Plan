@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Regular-Plan/static/css/main.df94159c.css",
+    "main.js": "/Regular-Plan/static/js/main.6eeb9be0.js",
+    "static/js/787.b237f7f1.chunk.js": "/Regular-Plan/static/js/787.b237f7f1.chunk.js",
+    "index.html": "/Regular-Plan/index.html",
+    "main.df94159c.css.map": "/Regular-Plan/static/css/main.df94159c.css.map",
+    "main.6eeb9be0.js.map": "/Regular-Plan/static/js/main.6eeb9be0.js.map",
+    "787.b237f7f1.chunk.js.map": "/Regular-Plan/static/js/787.b237f7f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df94159c.css",
+    "static/js/main.6eeb9be0.js"
+  ]
+}
